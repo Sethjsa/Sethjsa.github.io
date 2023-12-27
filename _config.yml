@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "PhD student in machine translation and text simplification"
   location         : "Amsterdam, Netherlands"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : "Universiteit van Amsterdam"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=R9VK010AAAAJ&hl=en"
   email            : "s.aycock@uva.nl"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -101,12 +101,12 @@ author:
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
+  lastfm           : "https://www.last.fm/user/SetheryJ"
+  linkedin         : "https://www.linkedin.com/in/sethjsa"
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0000-8380-4239"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : "sethjsa"
