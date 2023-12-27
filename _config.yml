@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : sethjsa
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Seth J.S. Aycock"
   avatar           : "profile.png"
-  bio              : "PhD student in machine translation and text simplification"
+  bio              : "PhD student in machine translation"
   location         : "Amsterdam, Netherlands"
-  employer         : "Universiteit van Amsterdam"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=R9VK010AAAAJ&hl=en"
   email            : "s.aycock@uva.nl"
