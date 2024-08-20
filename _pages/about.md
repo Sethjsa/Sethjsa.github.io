@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in machine translation at the University of Amsterdam. I work with Christof Monz and Khalil Sima'an. I have a MSc in Speech & Language Processing from Edinburgh University, and a BA in Linguistics from Cambridge University. Before starting my PhD I worked in NLP research at Inria, Paris; City University London; and the UK Government. My academic interests include:
+I am a PhD student in accessible and low-resource NLP, focusing on machine translation and text simplification, at the University of Amsterdam. I work with Christof Monz and Khalil Sima'an. I have a MSc in Speech & Language Processing from Edinburgh University, and a BA in Linguistics from Cambridge University. Before starting my PhD I worked in NLP research at Inria, Paris; City University London; and the UK Government. My academic interests include:
 
 - Machine translation
 - Low-resource and sample efficient NLP
