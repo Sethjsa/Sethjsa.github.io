@@ -19,4 +19,4 @@ For my [Master's dissertation](https://github.com/Sethjsa/Sethjsa.github.io/blob
 
 My publications are available [here](./publications.md) and on my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=R9VK010AAAAJ).
 
-I also occasionally write blog posts about my research.
+<!-- I also occasionally write blog posts about my research. -->
